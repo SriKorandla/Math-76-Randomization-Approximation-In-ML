@@ -1,5 +1,5 @@
 # Randomization and Approximation in Machine Learning
-## Math 76.01, Mathematics in AI Final Project (Warren Shepard, Sri Korandla, Tushar Aaggarwal)
+## Math 76.01, Mathematics in AI Final Project (Warren Shepard, Sri Korandla, Tushar Aggarwal)
 
 ### Project Summary:
 We were interested by the obsession with perfect prediction algorithms which never make computational errors, and an interest in allowing for room for error. We believed that this would lead to better (and more realistic) predictions and less over-fitting
