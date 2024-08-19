@@ -19,9 +19,9 @@ https://github.com/zalandoresearch/fashion-mnist
 
 Paper by Li et al on randomized pruning for masking: https://arxiv.org/abs/2310.13183
 Paper by Li et al on Pruning on language models: https://arxiv.org/abs/2310.13191
-(Inspired by the Randomized Pruning, which we showed could be useful in small models)
+(Inspired by the Randomized Pruning, which we showed could be useful in small models).
 
-Paper by https://www.theoryofcomputing.org/articles/v008a014 inspired us to use pynndescent for our implementation of Approximate nearest neighbors
+Paper by https://www.theoryofcomputing.org/articles/v008a014 inspired us to use pynndescent for our implementation of Approximate nearest neighbors.
 
 
 
